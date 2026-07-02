@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/Pratyush-48/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Pratyush-48/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/Pratyush-48/Leetcode/tree/master/2218-maximum-value-of-k-coins-from-piles) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Pratyush-48/Leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2463-minimum-total-distance-traveled](https://github.com/Pratyush-48/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2615-sum-of-distances](https://github.com/Pratyush-48/Leetcode/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Pratyush-48/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Pratyush-48/Leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Pratyush-48/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Pratyush-48/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Pratyush-48/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Pratyush-48/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/Pratyush-48/Leetcode/tree/master/0502-ipo) |
 | [1094-car-pooling](https://github.com/Pratyush-48/Leetcode/tree/master/1094-car-pooling) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Pratyush-48/Leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Pratyush-48/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Pratyush-48/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Pratyush-48/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Pratyush-48/Leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Pratyush-48/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Pratyush-48/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Pratyush-48/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -529,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0427-construct-quad-tree](https://github.com/Pratyush-48/Leetcode/tree/master/0427-construct-quad-tree) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Pratyush-48/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/Pratyush-48/Leetcode/tree/master/1901-find-a-peak-element-ii) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Pratyush-48/Leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2906-construct-product-matrix](https://github.com/Pratyush-48/Leetcode/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Pratyush-48/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Pratyush-48/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -553,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Pratyush-48/Leetcode/tree/master/0322-coin-change) |
 | [1306-jump-game-iii](https://github.com/Pratyush-48/Leetcode/tree/master/1306-jump-game-iii) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Pratyush-48/Leetcode/tree/master/1376-time-needed-to-inform-all-employees) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Pratyush-48/Leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Pratyush-48/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3905-multi-source-flood-fill](https://github.com/Pratyush-48/Leetcode/tree/master/3905-multi-source-flood-fill) |
 ## Union-Find
