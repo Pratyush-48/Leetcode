@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Pratyush-48/Leetcode/tree/master/0547-number-of-provinces) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Pratyush-48/Leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Pratyush-48/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Pratyush-48/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Pratyush-48/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Pratyush-48/Leetcode/tree/master/0547-number-of-provinces) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Pratyush-48/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1306-jump-game-iii](https://github.com/Pratyush-48/Leetcode/tree/master/1306-jump-game-iii) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Pratyush-48/Leetcode/tree/master/1376-time-needed-to-inform-all-employees) |
@@ -590,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Pratyush-48/Leetcode/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/Pratyush-48/Leetcode/tree/master/0547-number-of-provinces) |
 | [1306-jump-game-iii](https://github.com/Pratyush-48/Leetcode/tree/master/1306-jump-game-iii) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Pratyush-48/Leetcode/tree/master/1376-time-needed-to-inform-all-employees) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Pratyush-48/Leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
@@ -600,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Pratyush-48/Leetcode/tree/master/0547-number-of-provinces) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Pratyush-48/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Pratyush-48/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Pratyush-48/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
