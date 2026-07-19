@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0087-scramble-string](https://github.com/Pratyush-48/Leetcode/tree/master/0087-scramble-string) |
+| [0132-palindrome-partitioning-ii](https://github.com/Pratyush-48/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0402-remove-k-digits](https://github.com/Pratyush-48/Leetcode/tree/master/0402-remove-k-digits) |
 | [0657-robot-return-to-origin](https://github.com/Pratyush-48/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/Pratyush-48/Leetcode/tree/master/0696-count-binary-substrings) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0087-scramble-string](https://github.com/Pratyush-48/Leetcode/tree/master/0087-scramble-string) |
+| [0132-palindrome-partitioning-ii](https://github.com/Pratyush-48/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0198-house-robber](https://github.com/Pratyush-48/Leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Pratyush-48/Leetcode/tree/master/0322-coin-change) |
 | [0396-rotate-function](https://github.com/Pratyush-48/Leetcode/tree/master/0396-rotate-function) |
