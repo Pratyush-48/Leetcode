@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Pratyush-48/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Pratyush-48/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1732-find-the-highest-altitude](https://github.com/Pratyush-48/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1755-closest-subsequence-sum](https://github.com/Pratyush-48/Leetcode/tree/master/1755-closest-subsequence-sum) |
 | [1799-maximize-score-after-n-operations](https://github.com/Pratyush-48/Leetcode/tree/master/1799-maximize-score-after-n-operations) |
 | [1833-maximum-ice-cream-bars](https://github.com/Pratyush-48/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Pratyush-48/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/Pratyush-48/Leetcode/tree/master/0061-rotate-list) |
 | [0696-count-binary-substrings](https://github.com/Pratyush-48/Leetcode/tree/master/0696-count-binary-substrings) |
+| [1755-closest-subsequence-sum](https://github.com/Pratyush-48/Leetcode/tree/master/1755-closest-subsequence-sum) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Pratyush-48/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Pratyush-48/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Pratyush-48/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Pratyush-48/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1402-reducing-dishes](https://github.com/Pratyush-48/Leetcode/tree/master/1402-reducing-dishes) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Pratyush-48/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1755-closest-subsequence-sum](https://github.com/Pratyush-48/Leetcode/tree/master/1755-closest-subsequence-sum) |
 | [1833-maximum-ice-cream-bars](https://github.com/Pratyush-48/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Pratyush-48/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Pratyush-48/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/Pratyush-48/Leetcode/tree/master/1402-reducing-dishes) |
 | [1575-count-all-possible-routes](https://github.com/Pratyush-48/Leetcode/tree/master/1575-count-all-possible-routes) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Pratyush-48/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1755-closest-subsequence-sum](https://github.com/Pratyush-48/Leetcode/tree/master/1755-closest-subsequence-sum) |
 | [1799-maximize-score-after-n-operations](https://github.com/Pratyush-48/Leetcode/tree/master/1799-maximize-score-after-n-operations) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Pratyush-48/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2140-solving-questions-with-brainpower](https://github.com/Pratyush-48/Leetcode/tree/master/2140-solving-questions-with-brainpower) |
@@ -546,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Pratyush-48/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Pratyush-48/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Pratyush-48/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1755-closest-subsequence-sum](https://github.com/Pratyush-48/Leetcode/tree/master/1755-closest-subsequence-sum) |
 | [1799-maximize-score-after-n-operations](https://github.com/Pratyush-48/Leetcode/tree/master/1799-maximize-score-after-n-operations) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Pratyush-48/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3621-number-of-integers-with-popcount-depth-equal-to-k-i](https://github.com/Pratyush-48/Leetcode/tree/master/3621-number-of-integers-with-popcount-depth-equal-to-k-i) |
@@ -622,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Pratyush-48/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1125-smallest-sufficient-team](https://github.com/Pratyush-48/Leetcode/tree/master/1125-smallest-sufficient-team) |
+| [1755-closest-subsequence-sum](https://github.com/Pratyush-48/Leetcode/tree/master/1755-closest-subsequence-sum) |
 | [1799-maximize-score-after-n-operations](https://github.com/Pratyush-48/Leetcode/tree/master/1799-maximize-score-after-n-operations) |
 ## Memoization
 |  |
