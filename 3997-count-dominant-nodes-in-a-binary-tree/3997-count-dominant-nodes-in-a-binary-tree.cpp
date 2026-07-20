@@ -22,7 +22,7 @@ public:
         int maxi = max(left,right);
         maxi = max(maxi,val);
         if((left==-1 && right==-1) || val==maxi) result++;
-        return max(maxi,val);
+        return maxi;
     }
     int countDominantNodes(TreeNode* root) {
         recc(root);
