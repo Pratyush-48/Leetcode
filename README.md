@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Pratyush-48/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1200-minimum-absolute-difference](https://github.com/Pratyush-48/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Pratyush-48/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1260-shift-2d-grid](https://github.com/Pratyush-48/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Pratyush-48/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/Pratyush-48/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Pratyush-48/Leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Pratyush-48/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/Pratyush-48/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [1094-car-pooling](https://github.com/Pratyush-48/Leetcode/tree/master/1094-car-pooling) |
+| [1260-shift-2d-grid](https://github.com/Pratyush-48/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Pratyush-48/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Pratyush-48/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Pratyush-48/Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
@@ -576,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Pratyush-48/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0427-construct-quad-tree](https://github.com/Pratyush-48/Leetcode/tree/master/0427-construct-quad-tree) |
+| [1260-shift-2d-grid](https://github.com/Pratyush-48/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Pratyush-48/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Pratyush-48/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/Pratyush-48/Leetcode/tree/master/1901-find-a-peak-element-ii) |
