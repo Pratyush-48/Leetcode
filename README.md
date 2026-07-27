@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Pratyush-48/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1980-find-unique-binary-string](https://github.com/Pratyush-48/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Pratyush-48/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Pratyush-48/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2126-destroying-asteroids](https://github.com/Pratyush-48/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2140-solving-questions-with-brainpower](https://github.com/Pratyush-48/Leetcode/tree/master/2140-solving-questions-with-brainpower) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Pratyush-48/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-closest-subsequence-sum](https://github.com/Pratyush-48/Leetcode/tree/master/1755-closest-subsequence-sum) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Pratyush-48/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Pratyush-48/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Pratyush-48/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Pratyush-48/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Pratyush-48/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Pratyush-48/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Pratyush-48/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1943-describe-the-painting](https://github.com/Pratyush-48/Leetcode/tree/master/1943-describe-the-painting) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Pratyush-48/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Pratyush-48/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2126-destroying-asteroids](https://github.com/Pratyush-48/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2463-minimum-total-distance-traveled](https://github.com/Pratyush-48/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/Pratyush-48/Leetcode/tree/master/2751-robot-collisions) |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Pratyush-48/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Pratyush-48/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1901-find-a-peak-element-ii](https://github.com/Pratyush-48/Leetcode/tree/master/1901-find-a-peak-element-ii) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Pratyush-48/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Pratyush-48/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3488-closest-equal-element-queries](https://github.com/Pratyush-48/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Pratyush-48/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -278,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0731-my-calendar-ii](https://github.com/Pratyush-48/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Pratyush-48/Leetcode/tree/master/0732-my-calendar-iii) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Pratyush-48/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## String
 |  |
 | ------- |
@@ -339,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-closest-subsequence-sum](https://github.com/Pratyush-48/Leetcode/tree/master/1755-closest-subsequence-sum) |
 | [1799-maximize-score-after-n-operations](https://github.com/Pratyush-48/Leetcode/tree/master/1799-maximize-score-after-n-operations) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Pratyush-48/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Pratyush-48/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2140-solving-questions-with-brainpower](https://github.com/Pratyush-48/Leetcode/tree/master/2140-solving-questions-with-brainpower) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/Pratyush-48/Leetcode/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2463-minimum-total-distance-traveled](https://github.com/Pratyush-48/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
@@ -558,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Pratyush-48/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1755-closest-subsequence-sum](https://github.com/Pratyush-48/Leetcode/tree/master/1755-closest-subsequence-sum) |
 | [1799-maximize-score-after-n-operations](https://github.com/Pratyush-48/Leetcode/tree/master/1799-maximize-score-after-n-operations) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Pratyush-48/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Pratyush-48/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3621-number-of-integers-with-popcount-depth-equal-to-k-i](https://github.com/Pratyush-48/Leetcode/tree/master/3621-number-of-integers-with-popcount-depth-equal-to-k-i) |
 ## Backtracking
@@ -636,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1125-smallest-sufficient-team](https://github.com/Pratyush-48/Leetcode/tree/master/1125-smallest-sufficient-team) |
 | [1755-closest-subsequence-sum](https://github.com/Pratyush-48/Leetcode/tree/master/1755-closest-subsequence-sum) |
 | [1799-maximize-score-after-n-operations](https://github.com/Pratyush-48/Leetcode/tree/master/1799-maximize-score-after-n-operations) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Pratyush-48/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Memoization
 |  |
 | ------- |
