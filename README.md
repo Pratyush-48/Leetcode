@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Pratyush-48/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Pratyush-48/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1402-reducing-dishes](https://github.com/Pratyush-48/Leetcode/tree/master/1402-reducing-dishes) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pratyush-48/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1575-count-all-possible-routes](https://github.com/Pratyush-48/Leetcode/tree/master/1575-count-all-possible-routes) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Pratyush-48/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Pratyush-48/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Pratyush-48/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Pratyush-48/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1402-reducing-dishes](https://github.com/Pratyush-48/Leetcode/tree/master/1402-reducing-dishes) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pratyush-48/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Pratyush-48/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1755-closest-subsequence-sum](https://github.com/Pratyush-48/Leetcode/tree/master/1755-closest-subsequence-sum) |
 | [1833-maximum-ice-cream-bars](https://github.com/Pratyush-48/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Pratyush-48/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/Pratyush-48/Leetcode/tree/master/0502-ipo) |
 | [1094-car-pooling](https://github.com/Pratyush-48/Leetcode/tree/master/1094-car-pooling) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pratyush-48/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Pratyush-48/Leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Pratyush-48/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Pratyush-48/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
