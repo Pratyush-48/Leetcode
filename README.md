@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Pratyush-48/Leetcode/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/Pratyush-48/Leetcode/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/Pratyush-48/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0312-burst-balloons](https://github.com/Pratyush-48/Leetcode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Pratyush-48/Leetcode/tree/master/0322-coin-change) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Pratyush-48/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0396-rotate-function](https://github.com/Pratyush-48/Leetcode/tree/master/0396-rotate-function) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/Pratyush-48/Leetcode/tree/master/0087-scramble-string) |
 | [0132-palindrome-partitioning-ii](https://github.com/Pratyush-48/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0198-house-robber](https://github.com/Pratyush-48/Leetcode/tree/master/0198-house-robber) |
+| [0312-burst-balloons](https://github.com/Pratyush-48/Leetcode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Pratyush-48/Leetcode/tree/master/0322-coin-change) |
 | [0396-rotate-function](https://github.com/Pratyush-48/Leetcode/tree/master/0396-rotate-function) |
 | [0403-frog-jump](https://github.com/Pratyush-48/Leetcode/tree/master/0403-frog-jump) |
