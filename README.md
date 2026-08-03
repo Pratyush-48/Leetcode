@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/Pratyush-48/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Pratyush-48/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/Pratyush-48/Leetcode/tree/master/2218-maximum-value-of-k-coins-from-piles) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Pratyush-48/Leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Pratyush-48/Leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2463-minimum-total-distance-traveled](https://github.com/Pratyush-48/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2615-sum-of-distances](https://github.com/Pratyush-48/Leetcode/tree/master/2615-sum-of-distances) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Pratyush-48/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Pratyush-48/Leetcode/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2126-destroying-asteroids](https://github.com/Pratyush-48/Leetcode/tree/master/2126-destroying-asteroids) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Pratyush-48/Leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pratyush-48/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pratyush-48/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Pratyush-48/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Pratyush-48/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Pratyush-48/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2126-destroying-asteroids](https://github.com/Pratyush-48/Leetcode/tree/master/2126-destroying-asteroids) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Pratyush-48/Leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2463-minimum-total-distance-traveled](https://github.com/Pratyush-48/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/Pratyush-48/Leetcode/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Pratyush-48/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
