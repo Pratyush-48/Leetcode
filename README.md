@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Pratyush-48/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Pratyush-48/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1402-reducing-dishes](https://github.com/Pratyush-48/Leetcode/tree/master/1402-reducing-dishes) |
+| [1406-stone-game-iii](https://github.com/Pratyush-48/Leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pratyush-48/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1575-count-all-possible-routes](https://github.com/Pratyush-48/Leetcode/tree/master/1575-count-all-possible-routes) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Pratyush-48/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Pratyush-48/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1301-number-of-paths-with-max-score](https://github.com/Pratyush-48/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1402-reducing-dishes](https://github.com/Pratyush-48/Leetcode/tree/master/1402-reducing-dishes) |
+| [1406-stone-game-iii](https://github.com/Pratyush-48/Leetcode/tree/master/1406-stone-game-iii) |
 | [1575-count-all-possible-routes](https://github.com/Pratyush-48/Leetcode/tree/master/1575-count-all-possible-routes) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Pratyush-48/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1755-closest-subsequence-sum](https://github.com/Pratyush-48/Leetcode/tree/master/1755-closest-subsequence-sum) |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/Pratyush-48/Leetcode/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/Pratyush-48/Leetcode/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Pratyush-48/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1406-stone-game-iii](https://github.com/Pratyush-48/Leetcode/tree/master/1406-stone-game-iii) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Pratyush-48/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1799-maximize-score-after-n-operations](https://github.com/Pratyush-48/Leetcode/tree/master/1799-maximize-score-after-n-operations) |
 | [2719-count-of-integers](https://github.com/Pratyush-48/Leetcode/tree/master/2719-count-of-integers) |
@@ -699,4 +702,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Pratyush-48/Leetcode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Pratyush-48/Leetcode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
