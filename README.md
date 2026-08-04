@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/Pratyush-48/Leetcode/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/Pratyush-48/Leetcode/tree/master/1109-corporate-flight-bookings) |
 | [1125-smallest-sufficient-team](https://github.com/Pratyush-48/Leetcode/tree/master/1125-smallest-sufficient-team) |
+| [1140-stone-game-ii](https://github.com/Pratyush-48/Leetcode/tree/master/1140-stone-game-ii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Pratyush-48/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1200-minimum-absolute-difference](https://github.com/Pratyush-48/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Pratyush-48/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0732-my-calendar-iii](https://github.com/Pratyush-48/Leetcode/tree/master/0732-my-calendar-iii) |
 | [1094-car-pooling](https://github.com/Pratyush-48/Leetcode/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/Pratyush-48/Leetcode/tree/master/1109-corporate-flight-bookings) |
+| [1140-stone-game-ii](https://github.com/Pratyush-48/Leetcode/tree/master/1140-stone-game-ii) |
 | [1732-find-the-highest-altitude](https://github.com/Pratyush-48/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1854-maximum-population-year](https://github.com/Pratyush-48/Leetcode/tree/master/1854-maximum-population-year) |
 | [1943-describe-the-painting](https://github.com/Pratyush-48/Leetcode/tree/master/1943-describe-the-painting) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0926-flip-string-to-monotone-increasing](https://github.com/Pratyush-48/Leetcode/tree/master/0926-flip-string-to-monotone-increasing) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Pratyush-48/Leetcode/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1125-smallest-sufficient-team](https://github.com/Pratyush-48/Leetcode/tree/master/1125-smallest-sufficient-team) |
+| [1140-stone-game-ii](https://github.com/Pratyush-48/Leetcode/tree/master/1140-stone-game-ii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Pratyush-48/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Pratyush-48/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1301-number-of-paths-with-max-score](https://github.com/Pratyush-48/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
@@ -471,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Pratyush-48/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/Pratyush-48/Leetcode/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/Pratyush-48/Leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Pratyush-48/Leetcode/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Pratyush-48/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/Pratyush-48/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Pratyush-48/Leetcode/tree/master/1510-stone-game-iv) |
@@ -713,12 +717,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Pratyush-48/Leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Pratyush-48/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Pratyush-48/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Pratyush-48/Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Pratyush-48/Leetcode/tree/master/1563-stone-game-v) |
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Pratyush-48/Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Pratyush-48/Leetcode/tree/master/1510-stone-game-iv) |
 ## Nim Game
 |  |
@@ -731,5 +737,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Pratyush-48/Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Pratyush-48/Leetcode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
