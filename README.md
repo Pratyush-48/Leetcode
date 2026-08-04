@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/Pratyush-48/Leetcode/tree/master/1402-reducing-dishes) |
 | [1406-stone-game-iii](https://github.com/Pratyush-48/Leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pratyush-48/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1563-stone-game-v](https://github.com/Pratyush-48/Leetcode/tree/master/1563-stone-game-v) |
 | [1575-count-all-possible-routes](https://github.com/Pratyush-48/Leetcode/tree/master/1575-count-all-possible-routes) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Pratyush-48/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Pratyush-48/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/Pratyush-48/Leetcode/tree/master/1402-reducing-dishes) |
 | [1406-stone-game-iii](https://github.com/Pratyush-48/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Pratyush-48/Leetcode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Pratyush-48/Leetcode/tree/master/1563-stone-game-v) |
 | [1575-count-all-possible-routes](https://github.com/Pratyush-48/Leetcode/tree/master/1575-count-all-possible-routes) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Pratyush-48/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1755-closest-subsequence-sum](https://github.com/Pratyush-48/Leetcode/tree/master/1755-closest-subsequence-sum) |
@@ -469,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/Pratyush-48/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/Pratyush-48/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Pratyush-48/Leetcode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Pratyush-48/Leetcode/tree/master/1563-stone-game-v) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Pratyush-48/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1799-maximize-score-after-n-operations](https://github.com/Pratyush-48/Leetcode/tree/master/1799-maximize-score-after-n-operations) |
 | [2719-count-of-integers](https://github.com/Pratyush-48/Leetcode/tree/master/2719-count-of-integers) |
@@ -709,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Pratyush-48/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Pratyush-48/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Pratyush-48/Leetcode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Pratyush-48/Leetcode/tree/master/1563-stone-game-v) |
 ## Minimax
 |  |
 | ------- |
