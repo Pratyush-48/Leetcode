@@ -5,8 +5,8 @@ public:
         while(m_turn.load()!=turn);
     }
     atomic<int>m_turn;
-    Foo() : m_turn{1} {
-        
+    Foo() {
+        m_turn.store(1);
     }
 
     void first(function<void()> printFirst) {
