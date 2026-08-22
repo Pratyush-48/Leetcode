@@ -1,8 +1,5 @@
 # Write your MySQL query statement below
-select department,employee,salary from
-(select d.name as department,e.name as employee,e.salary as salary,dense_rank() over
-    (partition by d.name order by e.salary desc) as ranks
-    from employee e
-    left join department d
-    on e.departmentId = d.id) as temp
-where ranks<=3;
+select d.name as 'Department',t.name as 'Employee',t.salary as 'Salary' from
+(select name,salary,departmentId,
+dense_rank() over (partition by departmentId order by salary desc) as rnk
+from Employee)t left join Department d on t.departmentId = d.id where rnk<=3;
