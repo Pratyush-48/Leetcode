@@ -566,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0178-rank-scores](https://github.com/Pratyush-48/Leetcode/tree/master/0178-rank-scores) |
 | [0180-consecutive-numbers](https://github.com/Pratyush-48/Leetcode/tree/master/0180-consecutive-numbers) |
 | [0185-department-top-three-salaries](https://github.com/Pratyush-48/Leetcode/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/Pratyush-48/Leetcode/tree/master/0196-delete-duplicate-emails) |
