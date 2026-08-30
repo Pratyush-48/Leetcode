@@ -616,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Pratyush-48/Leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 | [3220-odd-and-even-transactions](https://github.com/Pratyush-48/Leetcode/tree/master/3220-odd-and-even-transactions) |
 | [3421-find-students-who-improved](https://github.com/Pratyush-48/Leetcode/tree/master/3421-find-students-who-improved) |
+| [3475-dna-pattern-recognition](https://github.com/Pratyush-48/Leetcode/tree/master/3475-dna-pattern-recognition) |
 ## Bit Manipulation
 |  |
 | ------- |
